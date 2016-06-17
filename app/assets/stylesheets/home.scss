@@ -1,0 +1,9 @@
+// Place all the styles related to the home controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.social-icons li.twitter a {
+	background: url(icons/twitter.png) no-repeat 0 0;
+}
+.social-icons li.twitter a:hover {
+	background-color: #48c4d2;
+}
